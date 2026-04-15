@@ -1,5 +1,3 @@
-# refactor-realm-relay
-
 # Refactor Realm — Nostr Relay Write Access
 
 Reliable, stable, unlimited-write Nostr relay access for $5/month.  
